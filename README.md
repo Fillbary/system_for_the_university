@@ -32,7 +32,7 @@ http://localhost:8080
 ``` bash
 POST /api/registrations - регистрация студента
 
-GET /api/courses - список всех курсов
+GET /api/courses/all - список всех курсов
 
 GET /api/courses/available - доступные для регистрации курсы
 ```
