@@ -51,4 +51,3 @@ mvn test
 Backend: Java 17, Spring Boot 3.1
 База данных: PostgreSQL (prod)
 Тестирование: JUnit 5, Mockito
-Документация: Swagger UI
